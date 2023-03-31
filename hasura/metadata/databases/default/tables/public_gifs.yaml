@@ -1,0 +1,3 @@
+table:
+  name: gifs
+  schema: public
